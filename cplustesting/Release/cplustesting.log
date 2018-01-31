@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Car.cpp
+  cplustesting.cpp
+c:\users\ryanm\documents\github\cplustesting\cplustesting\Race.h(13): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\ryanm\documents\github\cplustesting\cplustesting\Race.h(13): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Race.cpp
+c:\users\ryanm\documents\github\cplustesting\cplustesting\Race.h(13): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\ryanm\documents\github\cplustesting\cplustesting\Race.h(13): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Generating code
+  All 71 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  cplustesting.vcxproj -> C:\Users\ryanm\Documents\GitHub\cplustesting\Release\cplustesting.exe
