@@ -18,20 +18,24 @@ public:
 	int SetWheels(int i);
 	int Move();
 	int GetLocation();
+	virtual int Turn();
 };
 
 class Racecar : public Car {
 public:
 	Racecar(string temp);
+	int Turn();
 };
 
 class StreetCar : public Car {
 public:
 	StreetCar(string temp);
+	int Turn();
 };
 
 class Truck : public Car {
 public:
 	Truck(string temp);
+	int Turn();
 };
 

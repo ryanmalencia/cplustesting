@@ -1,7 +1,8 @@
-using namespace std;
 #pragma once
 #include <string>
 #include "Car.h"
+
+using namespace std;
 
 class Race
 {

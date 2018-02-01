@@ -24,6 +24,30 @@ Car::Car(string temp)
 	Moving = 3;
 }
 
+int Car::Turn()
+{	
+	Location += 10;
+	return Location;
+}
+
+int Racecar::Turn()
+{
+	Location += 5;
+	return Location;
+}
+
+int StreetCar::Turn()
+{
+	Location += 6;
+	return Location;
+}
+
+int Truck::Turn()
+{
+	Location += 7;
+	return Location;
+}
+
 StreetCar::StreetCar(string temp)
 {
 	Location = 0;
